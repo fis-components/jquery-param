@@ -1,0 +1,10 @@
+{
+    "name": "jquery-param",
+    "description": "A function that is equivalent of jQuery.param",
+    "repos": "https://github.com/knowledgecode/jquery-param.git",
+    "main": "jquery-param.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.1.2"
+}
